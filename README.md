@@ -1,4 +1,5 @@
 # WallapopBot 🤖
+## The bot is currently disabled, but you have the option to create your own and utilize the Jupyter Notebook for scraping and processing the items. ⚠️
 This project is based on a Telegram bot that allows you to stay updated on new products posted on the [Wallapop](https://es.wallapop.com/) platform. I decided to develop this project because I was interested in purchasing a graphics card and the prices were skyrocketing.
 
 ## How to use it? 🚀
