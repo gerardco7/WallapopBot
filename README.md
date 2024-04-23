@@ -7,7 +7,7 @@ It's very easy to use. First, you need to access the Telegram bot called [WalaYe
 - `/start`: Initiates the conversation with the bot, and it will respond by indicating its correct deployment.
 - `/busca`: Proceeds to search for the latest graphics cards on Wallapop. It will first show you the latest 6 graphics cards published, and while it's active, it will notify you each time a new graphics card is published.
 
-## How was it built? 🏗️
+![Example of result](./img/howtouseit.png)
 
 ## 📝TODO list
 - Explore how it works with multiple users.
@@ -15,3 +15,4 @@ It's very easy to use. First, you need to access the Telegram bot called [WalaYe
 - Use pyspider instead of selenium.
 - Skip the Wallapop tutorial to speed up the first 20 seconds of the search.
 - Convert Jupiter Notebook to a Python Script File.
+- How was it build? section
