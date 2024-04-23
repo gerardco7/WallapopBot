@@ -7,7 +7,9 @@ It's very easy to use. First, you need to access the Telegram bot called [WalaYe
 - `/start`: Initiates the conversation with the bot, and it will respond by indicating its correct deployment.
 - `/busca`: Proceeds to search for the latest graphics cards on Wallapop. It will first show you the latest 6 graphics cards published, and while it's active, it will notify you each time a new graphics card is published.
 
-![Example of result](./img/howtouseit.png)
+Here's an example illustrating how the items will appear:
+
+![Example of result](./img/howtouseit.PNG)
 
 ## 📝TODO list
 - Explore how it works with multiple users.
