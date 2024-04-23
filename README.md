@@ -14,3 +14,4 @@ It's very easy to use. First, you need to access the Telegram bot called [WalaYe
 - Allow changing the item to search from the `/busca` command.
 - Use pyspider instead of selenium.
 - Skip the Wallapop tutorial to speed up the first 20 seconds of the search.
+- Convert Jupiter Notebook to a Python Script File.
